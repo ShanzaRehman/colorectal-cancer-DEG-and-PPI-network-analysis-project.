@@ -1,0 +1,5 @@
+"","Method","Total_DEGs","Upregulated","Downregulated"
+"1","DESeq2",5803,3246,2557
+"2","limma",8047,5048,2999
+"3","edgeR",3659,2029,1630
+"4","Consensus",3566,1982,1584
