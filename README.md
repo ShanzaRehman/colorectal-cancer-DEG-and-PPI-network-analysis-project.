@@ -12,9 +12,8 @@ This project identifies robust differentially expressed genes (DEGs) in colorect
 ## 📂 Project Structure
 
 - `data/`: Raw and processed input data
-- `results/`: Exported CSVs (DEGs, enrichment, summary)
-- `plots/`: Publication-ready visualizations
-- `scripts/`: All analysis scripts in R
+- `results/`: Exported CSVs (DEGs, enrichment, summary) & `plots/`: Publication-ready visualizations
+- `scripts/`: Full analysis script in R
 
 ## 📊 Results Summary
 
